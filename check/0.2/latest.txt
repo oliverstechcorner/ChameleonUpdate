@@ -1,3 +1,0 @@
-What is this?
-
-This file tells Windows Chameleon that Build 0.2 is the latest available version.
